@@ -8,6 +8,6 @@
 
 > Status: Deploied 🚀
 
-<p align="left">
-<img src= "codai-exemplo-curriculo/public/images/growdev-CV.png" width=10%
+<p align="center">
+<img src= "public/images/growdev-CV.png" width=90%
 </p>
